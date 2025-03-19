@@ -1,4 +1,4 @@
-Bank Subscription Prediction using Logistic Regression
+# Bank Subscription Prediction using Logistic Regression
 Project Overview:
 This project uses Logistic Regression to predict whether a bank client will subscribe to a term deposit based on various customer features. The dataset includes demographic, economic, and campaign-related attributes.
 
